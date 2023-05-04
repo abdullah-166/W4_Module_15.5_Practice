@@ -1,0 +1,6 @@
+Before Swapping:
+A = 3
+B = 5
+After Swapping:
+A = 5
+B = 3
